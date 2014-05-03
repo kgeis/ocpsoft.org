@@ -86,7 +86,7 @@ public class BasicJavaApp
 <p>
 <ul>
 
-<li><strong>Groovy on Grails</strong> - Visit <a href="http://grails.org/plugin/pretty-time" target="_blank">plugin</a> website.<br/></br></li>
+<li><strong>Grails</strong> - Visit <a href="http://grails.org/plugin/pretty-time" target="_blank">plugin</a> website.<br/></br></li>
 <li><strong>JavaServer Faces</strong> - PrettyTime comes with an extension for JavaServer Faces so that Date objects can be displayed using the standard JSF Converter system.
 <br/><p>First, you must include the JSF integration module.</p> 
 [code]
